@@ -1,0 +1,43 @@
+Activity 1	Greet customer before entering into customer premises.
+Activity 2	Understand the customers problem and ask for the CPE location.
+Activity 3	Check optical power at faceplate and ensure Optical power value within prescribed limit i.e. > -25dB if not than check the fiber.
+Activity 4	Check Connectivity of ONT & CPE, Lan Cable is properly fixed and connected with ONT and router.
+Activity 5	IF required co-ordinate with O&M for the fiber rectification and inform ETR to customer.
+Activity 6	Preferably ONT & CPE should be connected with UPS power If not please educate the customer
+Activity 7	Patch cord must be properly coiled and placed, please ensure that there is no Bend in drop fiber and Patch cord.
+Activity 8	Check for loose power plug. If power adaptor is loose into power plug than tighten it or ask user to provide alternate power socket.
+Activity 9	Check earthing voltage (Earth to Neutral) at power socket from which power to CPE is to be given. If it is more than 5 Volts than tell user to rectify the same or else the CPE or adaptor may go faulty. Educate the customer regarding same.
+Activity 10	If Required Co-ordinate with backend for the resolution, if not resolved inform the ETR to customer.
+Activity 11	After Resolution of Customer problem explain resolution provided to the same to customer
+Activity 12	Ensure that the WIFI is having the latest firmware if not than upgarde the firmware.
+Activity 13	Check that WIFI is insatlled in ventilated area and not with in the close proximity of electrical appliances, educate the customer about the same.
+Activity 14	Check Wi-Fi standard of the CLIENT (user laptop etc.) should be either  802.11 b / g or 802.11 b / g / n or 802.11 ac Wi-Fi connection speed depends on customer end device/Computer’s wireless network adaptor. For best speed wireless network adaptor should support latest Wi-Fi technology i.e. 802.11ac. If the wireless adaptor support old technology than customer speed will be less even if the Wi-Fi router supports 802.11 ac.
+Activity 15	User’s receiver client must be in good working order and drivers installed properly
+Activity 16	Ensure PC/Laptop is as per prescribed norms.
+Activity 17	Ensure antivirus is updated. If antivirus is not installed /updated than educate the customer on antivirus.
+Activity 18	Connect customer's smart devices with Wi-Fi.
+Activity 19	Create batch files on customers computer/Laptop
+Activity 20	Paste stickers of 'Phone' and 'WIFI router' on used port of ONT and 'ONT-IN' on used port of router if not available
+	Customer Education
+Activity 21	Educate customer that in case of ONT is powerd OFF, Land line will not be working
+Activity 22	Educate customer about product and its features(Like Fiber benefits, VTA fair usage policy, Contention Ratio)
+Activity 23	Inform customer about ONT & CPE lights status.
+Activity 24	Show that speed is as per customer plan.
+Activity 25	Educate customer about the basic connectivity of the CPE (ONT and WIFI) with each other and instrument
+Activity 26	Educate customer about Wi-Fi coverage and limitations in coverage due to physical obstructions (like walls, etc.) and interference due to proximity to electrical appliances (like cordless phone, desktop, etc.)
+Activity 27	Inform about CAS: Government mandate, its benefits, maximum number of devices that can be connected using CAS, SSID etc.
+Activity 28	Explain about basic computer hygiene like deleting cookies/running antivirus/ defragmentation (specific to the basic understanding of the customer).
+Activity 29	Explain using at least two browsers to trouble shoot issue specific to sites.
+Activity 30	Explain the use of Batch File.
+Activity 31	Explain Single user speed /Bandwidth sharing between multiple users.
+Activity 32	Explain about FTTH technology and about Downlink and Uplink speed.
+Activity 33	Educate the customer that there should not be any bend in patch cord and drop fiber.
+Activity 34	LONGER ANTENNA in device does not necessarily mean more coverage. Engineers should know this fact as coverage is depend only on signal strength.
+Activity 35	Basic explanation of “Line of Sight” (LOS) & “Non Line of Sight” (NLOS) may be extended to customer to appreciate Wi-Fi performance.
+Activity 36	Check and Ensure that basic do's and don't are followed
+Activity 37	Educate customer about basic troubleshooting like Lan/WIFI card enable and disable, Proxy enable and disable etc.
+Activity 38	Educate customer about his username, password and WIFI Key
+Activity 39	Educate customer on airtel SOW
+Activity 40	Educate customer that ONT is remotely monitored, in case line parameter are not up to the specified limit, engg may contact you for visit and rectification
+Activity 41	Explain the purpose of OCD to understand the objective behind these closure calls.
+Activity 42	Explain the importance of 121, ORT desk to the customer
